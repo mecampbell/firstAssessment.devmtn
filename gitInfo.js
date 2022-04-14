@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+var gitDefinition = 'Git is a speedy way of navigating your computer without the GUI.  It is also used to track changes in the source code allowing multiple developers to work together.'
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+
+var gitHubDefinition = 'GitHub is a website used to store coding projects'
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +31,8 @@
 
 //CODE HERE
 
+var gitInitDefinition = 'git init is a command used to initialize a new git repository'
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,6 +41,8 @@
 
 //CODE HERE
 
+var gitCloneDefinition = 'git clone is used to target an existing repository and create a clone, or copy'
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +50,8 @@
 */
 
 //CODE HERE
+
+var gitStatusDefinition = 'git status is used to see what changes have been staged and what has not.'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +64,9 @@
 
 //CODE HERE
 
+var gitAddDefinition = 'git add adds a change in the working directory to the staging area'
+var gitAddCode = 'git add .'
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +78,8 @@
 
 //CODE HERE
 
+var gitCommitDefinition = 'git commit captures a snapshot of a projects currently staged changes'
+var gitCommitCode = 'git commit -am "initial commit" then git commit -m "Final Change"'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +88,5 @@
 */
 
 //CODE HERE
+
+var gitPushDefinition = 'git push is used to upload a local repository to a remote respository, like github'
